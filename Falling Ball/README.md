@@ -31,8 +31,6 @@ The Falling Ball Game is a simple web-based game where players control a ball th
 4. The game ends if the ball collides with an obstacle or reaches the top of the screen.
 5. The score is displayed based on the number of obstacles avoided.
 
-Of course, let's dive deeper into the learning aspects and potential improvements for the Falling Ball Game:
-
 ### Learning
 
 1. **DOM Manipulation**:
